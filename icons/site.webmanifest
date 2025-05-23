@@ -1,6 +1,6 @@
 {
-  "name": "Jonas13-01's  GithubPage",
-  "short_name": "Jonas13-01",
+  "name": "@ItsTuJo",
+  "short_name": "TuJo",
   "icons": [
     {
       "src": "/icons/web-app-manifest-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
   "display": "standalone"
 }
